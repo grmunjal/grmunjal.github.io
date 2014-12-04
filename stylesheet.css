@@ -166,7 +166,7 @@ position: absolute; top: 60px; left: 350px;
 
 books {
   width:500px;
-  position: relative;top: 60px; left: 350px;
+  position: relative;top: 60px; left: 30;
   padding-bottom:50px;
 }
 small {
