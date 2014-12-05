@@ -1,4 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+#twitter {
+  float:right;
+  position: relative;top: 50%; right:0px;
+}
+
 nav {
   position: absolute;
   right: 0px;
@@ -55,7 +61,7 @@ a small {
 }
 
 blockquote {
-  margin:0;position: relative;top: -700px; left: 600px;
+  margin:0;position: relative;top: -700px; left: 640px;
   width:600px;padding:20px;
   font-style:italic;font-size:18px;
 }
@@ -164,13 +170,13 @@ header ul a strong {
 
 section {
   width:500px;
-position: absolute; top: 60px; left: 260px;
+position: absolute; top: 60px; left: 300px;
   padding-bottom:50px;
 }
 
 books {
   width:500px;
-  position: relative;top: 60px; left: 130;
+  position: relative;top: 60px; left: 130px;
   padding-bottom:50px;
 }
 small {
