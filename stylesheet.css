@@ -195,20 +195,20 @@ footer {
   width:5%;
   float:left; 
   position:relative;
-  left:-150%;
+  left:-160%;
   margin:1px;
 }
 
 #rightquote{
   width:90%;
   float:left;
-  position: relative; left:-40%;margin-top: 40%;	
+  position: relative; left:-20%;margin-top: 40%;	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
 }
 
 #sound{
-  position:relative;left:-80%;  
+  position:relative;left:-120%;  
 }
 
