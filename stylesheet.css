@@ -187,9 +187,22 @@ footer {
   width:270px;
   float:right;
   position:fixed;
-  top:50%;
+  top:20%;
   right:0px;
 }
+
+#leftbook {
+  margin:1;
+  padding-left:20px;
+  }
+
+#leftquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding-left:2px;
+  font-style:italic;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
