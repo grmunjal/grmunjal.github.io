@@ -194,7 +194,7 @@ footer {
 #leftbook{
   float:left; 
   position:relative;
-  right:80%;
+  left:80%;
   margin:1px;
 }
 
