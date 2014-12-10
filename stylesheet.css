@@ -200,6 +200,7 @@ footer {
 }
 
 #rightquote{
+  width:30%;
   float:right;
   position: relative; top: 20%;	right:10%;
   border-left:1px solid #e5e5e5;
