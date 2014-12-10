@@ -213,7 +213,7 @@ footer {
   height:100%;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1020px) {
   
   div.wrapper {
     width:auto;
@@ -283,7 +283,8 @@ footer {
     color:#444;
   }
 }
+
 @viewport{
     zoom: 1.0;
-    width: extend-to-zoom;
+    width: device-width;
 }
