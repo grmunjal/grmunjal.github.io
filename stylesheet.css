@@ -269,19 +269,16 @@ footer {
 @media print, screen and (max-width: 480px) {
 #twitter{
   width:10%;
-  float:right;
-  position:fixed;
   top:20%;
   right:-1%;
 }
 
 #leftbook{
-  position:relative;
   margin:1px;
 }
 
 #rightquote{
-  position: relative; margin-top: 40%;	
+  margin-top: 40%;	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
