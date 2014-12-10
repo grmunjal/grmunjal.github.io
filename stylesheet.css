@@ -188,13 +188,13 @@ footer {
   float:right;
   position:fixed;
   top:20%;
-  right:-5%;
+  right:-3%;
 }
 
 #leftbook{
-  float:right; 
+  float:left; 
   position:relative;
-  left:-80%;
+  left:100px;
   margin:1px;
 }
 
