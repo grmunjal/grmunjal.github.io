@@ -192,7 +192,7 @@ footer {
 }
 
 #leftbook{
-  width:10%;
+  width:5%;
   float:left; 
   position:relative;
   left:-180%;
@@ -200,9 +200,9 @@ footer {
 }
 
 #rightquote{
-  width:30%;
+  width:40%;
   float:left;
-  position: relative; top: 20%;	right:10%;
+  position: relative; top: 30%;	right:10%;
   border-left:1px solid #e5e5e5;
   margin:0;
   padding-left:2px;
