@@ -192,6 +192,7 @@ footer {
 }
 
 #leftbook{
+  width:30%;
   float:left; 
   position:relative;
   left:-180%;
