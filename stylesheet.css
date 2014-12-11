@@ -209,6 +209,7 @@ footer {
 }
 
 #sound{
-  position:relative;left:-120%;  
+  position:relative;left:-120%;
+  padding-bottom:5%;  
 }
 
