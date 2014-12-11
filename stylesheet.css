@@ -273,17 +273,11 @@ footer {
   }
   
   #twitter{
-  width:270px;
-  float:right;
-  position:fixed;
-  top:-200%;
+  display:none;
   }
   
   #leftbook{
-  width:270px;
-  float:right;
-  position:fixed;
-  top:-200%;
+  display:none;
   }
  
 
