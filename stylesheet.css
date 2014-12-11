@@ -276,13 +276,13 @@ footer {
   }
   
   #leftbook{
-  position:relative;left:-200%;
+  position:fixed;top:-200%;
   margin:1px;
   }
 
   #rightquote{
   width:50%;
-  position: relative; left:20%; 	
+  position: relative; left:30%; 	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
