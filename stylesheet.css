@@ -180,7 +180,7 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:40px;
 }
 
 #twitter{
@@ -213,7 +213,7 @@ footer {
   padding-bottom:5%;  
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 780px) {
   body {
     word-wrap:break-word;
   }
@@ -228,7 +228,7 @@ footer {
   }
   
   #twitter{
-  width:270px;
+  width:200px;
   float:right;
   position:fixed;
   top:-200%;
@@ -242,7 +242,7 @@ footer {
   #rightquote{
   position: relative; left:1%; 	
   border-bottom:1px solid #e5e5e5;
-  padding-left:1%;
+  padding:0 0 0 0px;
   font-style:italic;
   font-size:8px;
   }
@@ -253,7 +253,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 670px) {
   h2 {
   color:#393939;position:relative;left:30%;
   }
@@ -282,7 +282,8 @@ footer {
  
 
   #rightquote{
-  width:60%;
+  width:70%;
+  padding:0 0 0 0px;
   position: relative; left:30%; 	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
