@@ -254,20 +254,21 @@ footer {
   }
   
   #leftbook{
-  position:relative;
+  position:relative;left:100%;
   margin:1px;
   }
 
   #rightquote{
+  width:70%;
   position: relative; left:10%; 	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
-  font-size:10px;
+  font-size:8px;
   }
 
   #sound{
-  position:relative;
+  position:relative;left:50%;
   padding-bottom:5%;  
   }
 
