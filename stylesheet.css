@@ -235,13 +235,12 @@ footer {
   }
   
   #leftbook{
-  position:relative;left:100%;
+  position:relative;left:1%;
   margin:1px;
   }
 
   #rightquote{
-  width:70%;
-  position: relative; left:30%; 	
+  position: relative; left:1%; 	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
@@ -249,7 +248,7 @@ footer {
   }
 
   #sound{
-  position:relative;left:30%;
+  position:relative;left:1%;
   padding-bottom:5%;  
   }
 }
@@ -277,17 +276,17 @@ footer {
   }
   
   #leftbook{
-  position:relative;left:100%;
+  position:relative;left:-200%;
   margin:1px;
   }
 
   #rightquote{
-  width:70%;
-  position: relative; left:30%; 	
+  width:50%;
+  position: relative; left:20%; 	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
-  font-size:8px;
+  font-size:11px;
   }
 
   #sound{
