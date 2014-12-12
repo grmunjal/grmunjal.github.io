@@ -255,7 +255,7 @@ footer {
 
 @media print, screen and (max-width: 670px) {
   h2 {
-  color:#393939;position:relative;left:50%;
+  color:#393939;position:relative;left:30%;
   }
 
   body {
@@ -294,7 +294,7 @@ footer {
   }
 
   #sound{
-  position:relative;left:50%;
+  position:relative;left:30%;
   padding-bottom:5%;  
   }
 
@@ -306,7 +306,6 @@ footer {
   }
 
   body {
-    overflow: hidden;
     padding:15px;
   }
   
@@ -327,7 +326,7 @@ footer {
   
   #leftbook{
   display:none;
-  width:100%;
+  width:70%;
   }
  
 
