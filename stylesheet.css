@@ -308,17 +308,18 @@ footer {
   #leftbook{
    width:5%;
   float:left; 
-  position:relative;left:-100%;
+  position:relative;left:-80%;
   margin:1px;
   }
 
   #rightquote{
   width:90%;
   float:left;
-  position: relative; margin-top: 40%;	
+  position: relative;left:30%; margin-top: 20%;	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
+  font-size:11px;
   }
 
   #sound{
@@ -359,7 +360,7 @@ footer {
   padding-top:15%;
   float:left;
   position: relative;  	
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #e5e5e5;margin-top:20%;
   font-style:italic;
   font-size:12px;
   }
