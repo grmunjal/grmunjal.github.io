@@ -201,7 +201,7 @@ footer {
 #leftbook{
   width:5%;
   float:left; 
-  position:relative;
+  position:relative;left:-180%;
   margin:1px;
 }
 
@@ -246,19 +246,18 @@ footer {
   #rightquote{
   position: relative; left:10%; 	
   border-bottom:1px solid #e5e5e5;
-  padding-top:5%;  
   font-style:italic;
   font-size:8px;
   }
 
   #sound{
-  position:relative;left:30%;
+  position:relative;left:15%;
   padding-top:10%;  
   }
   
   #homeim{
   width:50%;
-  position:fixed;
+  position:relative;
   top:30%;left:25%;
   }
 
