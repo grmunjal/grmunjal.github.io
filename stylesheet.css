@@ -297,8 +297,7 @@ footer {
   }
 
   #rightquote{
-  float:left;
-  position: relative;  	
+  position: relative;left:-5%;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:12px;
@@ -306,7 +305,7 @@ footer {
 
   #sound{
   float:left;
-  position:relative;left:10%;
+  position:relative;left:-5%;
   padding-top:10%;  
   }
   
@@ -340,27 +339,33 @@ footer {
   
   #twitter{
   display:none;
-  width:100%;
   }
+
   
   #leftbook{
   display:none;
-  width:100%;
+  width:0px;
+  height:0px;  
   }
- 
 
   #rightquote{
-  width:70%;
-  padding:0 0 0 0px;
-  position: relative; left:30%; 	
+  float:left;
+  position: relative;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
-  font-size:11px;
+  font-size:12px;
   }
 
   #sound{
-  position:relative;left:30%;
-  padding-bottom:5%;  
+  float:left;
+  position:relative;left:-10%;
+  padding-top:10%;  
+  }
+  
+  #homeim{
+  width:100%;
+  position:relative;
+  top:75%;left:-10%;
   }
 
 }
