@@ -191,6 +191,7 @@ footer {
 
 #twitter{
   width:270px;
+  height:100%;
   float:right;
   position:fixed;
   top:10%;
