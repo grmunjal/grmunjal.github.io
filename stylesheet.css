@@ -221,7 +221,7 @@ footer {
 }
 
 
-@media print, screen and (max-width: 1280px) {
+@media print, screen and (max-width: 1600px) {
   body {
     word-wrap:break-word;
   }
@@ -252,7 +252,10 @@ footer {
   }
 
   #leftbook{
-  display:none;
+  width:5%;
+  float:left; 
+  position:relative;left:-140%;
+  margin:1px;
   }
 
   #rightquote{
@@ -272,7 +275,7 @@ footer {
 
 }
 
-@media print, screen and (max-width: 1600px) {
+@media print, screen and (max-width: 1280px) {
   body {
     word-wrap:break-word;
   }
@@ -288,9 +291,9 @@ footer {
   }
   
   #homeim{
-  width:100%;
+  width:70%;
   position:fixed;
-  top:10%;left:25%;
+  top:20%;left:25%;
   }
 
   #twitter{
@@ -303,23 +306,23 @@ footer {
   }
 
   #leftbook{
-  width:5%;
+   width:5%;
   float:left; 
-  position:relative;left:-140%;
+  position:relative;left:-100%;
   margin:1px;
   }
 
   #rightquote{
   width:90%;
   float:left;
-  position: relative; left:-20%;margin-top: 40%;	
+  position: relative; margin-top: 40%;	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
   }
 
   #sound{
-  position:relative;left:-120%;
+  position:relative;left:-70%;
   padding-bottom:5%;  
   margin-bottom:1em;
   }
@@ -560,7 +563,6 @@ footer {
   
   #leftbook{
   display:none;
-  width:70%;
   }
  
 
@@ -568,7 +570,7 @@ footer {
   width:50%;
   padding-top:15%;
   padding-bottom:5%;
-  position: relative; left:40%; 	
+  position: relative; left:50%; 	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:8px;
@@ -583,7 +585,7 @@ footer {
   #homeim{
   width:30%;
   position:fixed;
-  top:55%;left:20%;
+  top:25%;left:60%;
   margin:1%;
   }
 
