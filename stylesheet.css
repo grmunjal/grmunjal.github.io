@@ -406,6 +406,7 @@ footer {
   #rightquote{
   width:70%;
   padding-top:15%;
+  padding-bottom:5%;
   position: relative; left:30%; 	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
@@ -421,7 +422,7 @@ footer {
   #homeim{
   width:60%;
   position:fixed;
-  top:40%;left:30%;
+  top:50%;left:30%;
   margin:0;
   }
 
