@@ -348,8 +348,8 @@ footer {
   }
 
   #rightquote{
-  padding-top:5%;
-  position: relative;top:-10%;  	
+  padding-top:15%;
+  position: relative;top:-10%;left:-10%;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:10px;
@@ -367,7 +367,8 @@ footer {
   #homeim{
   width:40%;
   position:fixed;
-  top:20%;left:40%;
+  top:10%;left:70%;
+  margin:0;
   }
 
 }
