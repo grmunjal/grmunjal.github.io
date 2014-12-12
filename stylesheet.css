@@ -354,7 +354,7 @@ footer {
   font-style:italic;
   font-size:10px;
   margin-top:-10%;
-  margin-right:-10%;
+  margin-right:-20%;
   }
 
   #sound{
@@ -367,7 +367,7 @@ footer {
   #homeim{
   width:40%;
   position:fixed;
-  top:10%;left:70%;
+  top:10%;left:60%;
   margin:0;
   }
 
@@ -375,7 +375,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   h2 {
-  color:#393939;position:relative;left:30%;
+  color:#393939;position:relative;left:10%;
   }
 
   body {
@@ -405,16 +405,24 @@ footer {
 
   #rightquote{
   width:70%;
-  padding:0 0 0 0px;
+  padding-top:15%;
   position: relative; left:30%; 	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:11px;
+  margin-right:-10%;
   }
 
   #sound{
   position:relative;left:30%;
   padding-bottom:5%;  
+  }
+
+  #homeim{
+  width:60%;
+  position:fixed;
+  top:40%;left:30%;
+  margin:0;
   }
 
 }
