@@ -202,7 +202,6 @@ footer {
   width:5%;
   float:left; 
   position:relative;
-  left:-160%;
   margin:1px;
 }
 
@@ -219,4 +218,148 @@ footer {
   position:relative;left:-120%;
   padding-bottom:5%;  
   margin-bottom:1em;
+}
+
+@media print, screen and (max-width: 780px) {
+  body {
+    word-wrap:break-word;
+  }
+  
+  pre, code {
+    word-wrap:normal;
+  }
+  
+  header {
+  width:270px;
+  float:left;
+  position:relative;
+  }
+  
+  #twitter{
+  display:none;
+  }
+  
+  #leftbook{
+  display:none;
+  }
+
+  #rightquote{
+  position: relative; left:10%; 	
+  border-bottom:1px solid #e5e5e5;
+  padding-top:5%;  
+  font-style:italic;
+  font-size:8px;
+  }
+
+  #sound{
+  position:relative;left:30%;
+  padding-top:10%;  
+  }
+  
+  #homeim{
+  width:50%;
+  position:fixed;
+  top:30%;left:25%;
+  }
+
+}
+
+@media print, screen and (max-width: 670px) {
+  h2 {
+  color:#393939;position:relative;left:30%;
+  }
+
+  body {
+    overflow: hidden;
+    padding:15px;
+  }
+  
+  header ul {
+    display:none;
+  }
+  
+  header {
+  width:270px;
+  float:left;
+  position:relative;
+  }
+  
+  #twitter{
+  display:none;
+  width:100%;
+  }
+  
+  #leftbook{
+  display:none;
+  width:100%;
+  }
+ 
+
+  #rightquote{
+  width:70%;
+  padding:0 0 0 0px;
+  position: relative; left:30%; 	
+  border-bottom:1px solid #e5e5e5;
+  font-style:italic;
+  font-size:11px;
+  }
+
+  #sound{
+  position:relative;left:30%;
+  padding-bottom:5%;  
+  }
+
+}
+
+@media print, screen and (max-width: 480px) {
+  h2 {
+  color:#393939;position:relative;left:30%;
+  }
+
+  body {
+    padding:15px;
+  }
+  
+  header ul {
+    display:none;
+  }
+  
+  header {
+  width:270px;
+  float:left;
+  position:relative;
+  }
+  
+  #twitter{
+  display:none;
+  width:100%;
+  }
+  
+  #leftbook{
+  display:none;
+  width:70%;
+  }
+ 
+
+  #rightquote{
+  width:70%;
+  padding:0 0 0 0px;
+  position: relative; left:30%; 	
+  border-bottom:1px solid #e5e5e5;
+  font-style:italic;
+  font-size:11px;
+  }
+
+  #sound{
+  position:relative;left:30%;
+  padding-bottom:5%;  
+  }
+
+}
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
 }
