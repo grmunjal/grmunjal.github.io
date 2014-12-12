@@ -241,12 +241,12 @@ footer {
 
   
   #leftbook{
-  padding-top:5%;  
   width:0px;
   height:0px;  
   }
 
   #rightquote{
+  padding-top:15%;
   float:left;
   position: relative;  	
   border-bottom:1px solid #e5e5e5;
@@ -291,12 +291,12 @@ footer {
   }
   
   #leftbook{
-  padding-top:5%;  
   width:0px;
   height:0px;  
   }
 
   #rightquote{
+  padding-top:5%;  
   position: relative;left:-5%;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
