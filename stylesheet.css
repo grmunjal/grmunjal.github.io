@@ -244,21 +244,23 @@ footer {
   }
 
   #rightquote{
-  position: relative; left:10%; 	
+  float:left;
+  position: relative;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:8px;
   }
 
   #sound{
-  position:relative;left:15%;
+  float:left;
+  position:relative;
   padding-top:10%;  
   }
   
   #homeim{
-  width:50%;
+  width:100%;
   position:relative;
-  top:30%;left:25%;
+  top:35%;left:15%;
   }
 
 }
