@@ -236,12 +236,7 @@ footer {
   }
   
   #twitter{
-  width:200px;
-  height:80%;
-  float:right;
-  position:fixed;
-  top:0%;
-  right:-0%;
+  display:none;
   }
 
   
@@ -266,9 +261,9 @@ footer {
   }
   
   #homeim{
-  width:130%;
+  width:100%;
   position:relative;
-  top:70%;left:5%;
+  top:70%;left:-10%;
   }
 
 }
