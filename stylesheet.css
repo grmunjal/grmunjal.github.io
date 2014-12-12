@@ -241,7 +241,7 @@ footer {
 
   
   #leftbook{
-  display:none;
+  padding-top:5%;  
   width:0px;
   height:0px;  
   }
@@ -291,7 +291,7 @@ footer {
   }
   
   #leftbook{
-  display:none;
+  padding-top:5%;  
   width:0px;
   height:0px;  
   }
@@ -348,12 +348,13 @@ footer {
   }
 
   #rightquote{
+  padding-top:5%;
   position: relative;top:-10%;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:10px;
   margin-top:-10%;
-  margin-right:-5%;
+  margin-right:-10%;
   }
 
   #sound{
@@ -364,9 +365,9 @@ footer {
   }
   
   #homeim{
-  width:50%;
+  width:40%;
   position:fixed;
-  top:20%;left:10%;
+  top:20%;left:40%;
   }
 
 }
