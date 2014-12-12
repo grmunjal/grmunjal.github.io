@@ -237,10 +237,14 @@ footer {
   
   #twitter{
   display:none;
+  width:0px;
+  height:0px;
   }
   
   #leftbook{
   display:none;
+  width:0px;
+  height:0px;  
   }
 
   #rightquote{
@@ -248,12 +252,12 @@ footer {
   position: relative;  	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
-  font-size:8px;
+  font-size:12px;
   }
 
   #sound{
   float:left;
-  position:relative;
+  position:relative;left:40%;
   padding-top:10%;  
   }
   
