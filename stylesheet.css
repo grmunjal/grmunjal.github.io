@@ -263,7 +263,7 @@ footer {
   #homeim{
   width:100%;
   position:relative;
-  top:70%;left:-10%;
+  top:75%;left:-10%;
   }
 
 }
@@ -306,14 +306,14 @@ footer {
 
   #sound{
   float:left;
-  position:relative;left:20%;
+  position:relative;left:10%;
   padding-top:10%;  
   }
   
   #homeim{
   width:100%;
   position:relative;
-  top:35%;left:5%;
+  top:35%;left:-10%;
   }
 
 }
