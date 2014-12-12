@@ -314,8 +314,7 @@ footer {
   }
   
   header {
-  width:270px;
-  float:left;
+  width:100%;
   position:relative;
   }
   
@@ -331,9 +330,9 @@ footer {
  
 
   #rightquote{
-  width:70%;
+  width:100%;
   padding:0 0 0 0px;
-  position: relative; left:30%; 	
+  position: relative; left:30%;top:0%; 	
   border-bottom:1px solid #e5e5e5;
   font-style:italic;
   font-size:11px;
