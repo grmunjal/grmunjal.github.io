@@ -220,6 +220,60 @@ footer {
   margin-bottom:1em;
 }
 
+@media print, screen and (max-width: 1024px) {
+  body {
+    word-wrap:break-word;
+  }
+  
+  pre, code {
+    word-wrap:normal;
+  }
+  
+  header {
+  width:270px;
+  float:left;
+  position:relative;
+  }
+  
+  #twitter{
+  width:200px;
+  height:80%;
+  float:right;
+  position:fixed;
+  top:0%;
+  right:-0%;
+  }
+
+  
+  #leftbook{
+  display:none;
+  width:0px;
+  height:0px;  
+  }
+
+  #rightquote{
+  float:left;
+  position: relative;  	
+  border-bottom:1px solid #e5e5e5;
+  font-style:italic;
+  font-size:12px;
+  }
+
+  #sound{
+  float:left;
+  position:relative;left:-10%;
+  padding-top:10%;  
+  }
+  
+  #homeim{
+  width:130%;
+  position:relative;
+  top:70%;left:5%;
+  }
+
+}
+
+
 @media print, screen and (max-width: 780px) {
   body {
     word-wrap:break-word;
@@ -257,14 +311,14 @@ footer {
 
   #sound{
   float:left;
-  position:relative;left:40%;
+  position:relative;left:20%;
   padding-top:10%;  
   }
   
   #homeim{
   width:100%;
   position:relative;
-  top:35%;left:15%;
+  top:35%;left:5%;
   }
 
 }
