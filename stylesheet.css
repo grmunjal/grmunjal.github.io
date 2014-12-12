@@ -211,6 +211,7 @@ footer {
 #sound{
   position:relative;left:-120%;
   padding-bottom:5%;  
+  margin-bottom:1em;
 }
 
 @media print, screen and (max-width: 780px) {
