@@ -343,7 +343,6 @@ footer {
 
   
   #leftbook{
-  display:none;
   width:0px;
   height:0px;  
   }
@@ -357,14 +356,15 @@ footer {
 
   #sound{
   float:left;
-  position:relative;left:-15%;
-  padding-top:10%;  
+  position:relative;left:-20%;
+  padding-top:5%;
+  margin-right:-20%  
   }
   
   #homeim{
   width:50%;
-  position:relative;
-  top:10%;left:10%;
+  position:fixed;
+  top:20%;right:10%;
   }
 
 }
