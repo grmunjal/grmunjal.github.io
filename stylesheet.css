@@ -362,6 +362,7 @@ footer {
   font-style:italic;
   font-size:12px;
   margin-top:-10%;
+  margin-bottom:10%;
   margin-right:-20%;
   }
 
@@ -413,7 +414,9 @@ footer {
   font-size:12px;
   margin-top:-10%;
   margin-right:-20%;
+  margin-bottom:10%;
   }
+
   #sound{
   float:left;
   position:relative;left:-5%;
@@ -466,6 +469,7 @@ footer {
   font-size:10px;
   margin-top:-10%;
   margin-right:-20%;
+  margin-bottom:10%;
   }
 
   #sound{
@@ -522,6 +526,7 @@ footer {
   font-style:italic;
   font-size:11px;
   margin-right:-10%;
+  margin-bottom:10%;
   }
 
   #sound{
@@ -575,6 +580,7 @@ footer {
   font-style:italic;
   font-size:8px;
   margin-right:-10%;
+  margin-bottom:10%;
   }
 
   #sound{
