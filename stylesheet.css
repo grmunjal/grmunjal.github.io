@@ -314,11 +314,12 @@ footer {
 
   #rightquote{
   width:80%;
+  float:left;
   position: relative;left:20%; margin-top: 35%;	
   border-bottom:1px solid #e5e5e5;
   padding-left:1%;
   font-style:italic;
-  font-size:12px;
+  font-size:11px;
   }
 
   #sound{
@@ -371,7 +372,7 @@ footer {
   }
   
   #homeim{
-  width:80%;
+  width:100%;
   position:relative;
   top:75%;left:-10%;
   }
