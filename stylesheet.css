@@ -496,7 +496,7 @@ footer {
   #homeim{
   width:60%;
   position:fixed;
-  top:60%;left:50%;
+  top:20%;left:50%;
   margin:0;
   }
 
@@ -545,7 +545,7 @@ footer {
   #homeim{
   width:30%;
   position:fixed;
-  top:50%;left:60%;
+  top:25%;left:60%;
   margin:1%;
   }
 
