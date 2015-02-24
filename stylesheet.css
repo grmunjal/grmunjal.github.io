@@ -394,9 +394,9 @@ footer {
   }
   
   #homeim{
-  width:100%;
+  width:50%;
   position:relative;
-  top:35%;left:-10%;
+  top:0%;left:-10%;
   }
 
 }
@@ -447,7 +447,7 @@ footer {
   #homeim{
   width:40%;
   position:fixed;
-  top:10%;left:60%;
+  top:0%;left:50%;
   margin:0;
   }
 
@@ -496,7 +496,7 @@ footer {
   #homeim{
   width:60%;
   position:fixed;
-  top:45%;left:20%;
+  top:60%;left:50%;
   margin:0;
   }
 
@@ -545,7 +545,7 @@ footer {
   #homeim{
   width:30%;
   position:fixed;
-  top:25%;left:60%;
+  top:50%;left:60%;
   margin:1%;
   }
 
