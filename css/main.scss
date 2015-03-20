@@ -27,7 +27,7 @@ $content-width:    60%;
 $on-palm:          $content-width;
 $on-laptop:        $content-width;
 
-header {position: fixed; left: 5%; right: -5%; top: 5%; width: 25%;}
+header {position: fixed; left: 5%; right: -5%; top: 5%; width: 25%;z-index:2;}
 header h1 { margin-bottom: 5px; }
 header h1 a { color: #494949; font-weight: bold; }
 header h3 { margin-top: 20px; margin-bottom: 5px; }
