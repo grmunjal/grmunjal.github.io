@@ -8,11 +8,13 @@ permalink: /helloworld/
 
 code highlighting:
 
+This is <code>Python</code>
 {% highlight python %}
 post = "hello world!"
 print post
 {% endhighlight %}
 
+This is <code>R</code>
 {% highlight R %}
 (post <- "hello world!")
 {% endhighlight %}
