@@ -6,35 +6,38 @@
 </description>
     <link>http://grmunjal.github.io/</link>
     <atom:link href="http://grmunjal.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Mar 2015 18:23:52 -0700</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2015 18:23:52 -0700</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 12:07:57 -0700</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 12:07:57 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Hello World!</title>
+        <description>&lt;p&gt;code highlighting:&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;post&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;hello world!&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;post&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;post &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;hello world!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis auctor tellus ex, quis ultricies magna dapibus vel. Aenean ut elit finibus, vulputate massa a, lacinia arcu. Phasellus odio elit, aliquam eu magna eu, malesuada elementum arcu. Ut in quam molestie, tempor sapien eu, imperdiet lectus. Aliquam viverra justo leo, id mollis lorem luctus a. Aenean ullamcorper libero tellus, et maximus nibh sodales a. Nunc eu mattis orci. Sed massa arcu, mattis sed metus ac, sagittis pulvinar velit. Aliquam varius nec leo eget aliquet. Nullam ornare justo felis, vel posuere nunc pulvinar eget. Cras viverra enim mollis arcu aliquam bibendum. Nulla porta faucibus sapien gravida interdum. Ut ultrices gravida velit. Praesent ornare diam vel posuere vestibulum. Nunc volutpat blandit nibh, vitae commodo ipsum consequat quis.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mauris feugiat, ligula sed semper pretium, justo sapien ultricies enim, nec auctor est felis pharetra leo. Mauris quis ipsum vehicula, pellentesque massa et, hendrerit orci. Vivamus eget fermentum dolor. Cras leo nunc, dictum non laoreet sed, rutrum faucibus nulla. Proin finibus vestibulum quam et dapibus. Mauris ultricies quam a urna imperdiet suscipit. Integer pulvinar, velit ac faucibus tempor, purus lorem dapibus justo, id tempus leo nunc at felis. In efficitur nibh nulla, ac tempus neque finibus at. Vestibulum sit amet ante id nulla lobortis suscipit.&lt;/p&gt;
+
+&lt;p&gt;Integer eu ultricies lectus, sit amet placerat augue. Cras tristique venenatis sollicitudin. Maecenas nibh nisi, mollis at tellus et, lobortis blandit sem. Sed varius libero et finibus sagittis. In vel viverra lectus. Aliquam erat volutpat. Curabitur faucibus risus ut turpis pellentesque, vitae hendrerit tellus efficitur. Nam auctor quis augue non fringilla. Cras sit amet mattis quam. Etiam consequat nulla vel luctus tempus. Pellentesque hendrerit justo vel efficitur sodales.&lt;/p&gt;
+
+&lt;p&gt;Sed sit amet ornare quam. Vivamus in ante id sem vehicula varius eu fermentum elit. Sed massa ligula, tincidunt vel turpis elementum, facilisis pharetra leo. Praesent non enim ante. Nulla ligula orci, imperdiet non nulla vel, egestas maximus nibh. Suspendisse non ligula risus. Pellentesque in lorem sed nulla finibus dignissim. Donec nec lectus quam. Nulla convallis porta ante, sit amet semper libero euismod quis. Aliquam ut eros sed augue semper mollis hendrerit nec purus. Donec consectetur dapibus laoreet. Vivamus malesuada pellentesque nisl a rutrum. Suspendisse molestie diam eu pulvinar ornare. Integer sed gravida turpis, pulvinar varius tortor. Donec in luctus ante.&lt;/p&gt;
+
+&lt;p&gt;Donec in hendrerit mi. In sed aliquet sem, in aliquam urna. Integer laoreet pulvinar dolor, a cursus quam tristique ac. Morbi molestie, sem nec rutrum congue, est dolor fringilla tortor, porttitor pellentesque mi purus at libero. Vestibulum mi lectus, suscipit id libero at, interdum ullamcorper ex. Mauris ullamcorper felis odio, nec cursus sapien finibus non. Donec diam ipsum, vehicula sed quam ac, mattis interdum diam. Cras ipsum dolor, mattis eu feugiat vitae, fermentum iaculis sapien. Duis eu justo tristique, accumsan felis tempor, vestibulum nunc. Maecenas id molestie arcu, iaculis fringilla libero. Nulla facilisi. In volutpat massa ipsum.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 03 Mar 2015 11:33:02 -0800</pubDate>
-        <link>http://grmunjal.github.io/jekyll/update/2015/03/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://grmunjal.github.io/jekyll/update/2015/03/03/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 21 Mar 2015 04:10:02 -0700</pubDate>
+        <link>http://grmunjal.github.io/helloworld/</link>
+        <guid isPermaLink="true">http://grmunjal.github.io/helloworld/</guid>
         
         
-        <category>jekyll</category>
+        <category>hello</category>
         
-        <category>update</category>
+        <category>world</category>
         
       </item>
     
