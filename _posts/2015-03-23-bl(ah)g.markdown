@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Bl(ah)g"
+date:   2015-03-23 19:04:02
+categories: whatis
+permalink: /posts/whatis/
+---
+
+I've debated the idea of adding a blog to this site for some time (mostly because I don't have very much to say very often) but finally decided to give it a try. I'm still not entirely sure what I want to write about but I think I have a general idea that I arrived at, like most things in my life, by process of elimination. 
+
+A lot of my peers write about `code` (usually R, python, perl, or something close) but I don't think I'm going to do that very much, if at all. As much as I love learning to code, I don't think I have much valuable advice about coding nor could I write about it as creatively as my peers. I will, however, write about how learning to code has been far more rewarding than I'd ever imagined in more than a few ways.
+
+Apart from being an invaluable skill in my field of study (plant breeding & genetics), it has radically changed how I approach problem-solving in my life and also helped me get my tiny foot in some big doors. Most other kinds of work I've done has usually been complimented with "good job!" but more often than not coding solutions come with a "cool!" and me likey those a lot. Within a year, about 2 years ago, I went from being a code-phobe (it's my site so I can make up as many words as I want) to a code-phile (see previous parenthesis) and folks at the research lab I worked in had everything to do with it. There I learned that work and play didn't neccesarily have to be mutually exclusive things and believe you me it was/is likely one of the most productive work places at my campus. 
+
+The hope in writing about these experiences is to remove coding from the pedestal that the code-phobe (= me 2 years ago and a lot of people I know today) puts it on. Maybe I just haven't done this long enough but to this day every time I write a new program that does what it should (after going through 4289349 fixes), I find myslef mentally going "cool!" All flavors of machine languages are a lot more fun if you're patient and persistent at the beginning. In some ways it's like learning to play a musical instrument, which takes practice, patience, and persistence (I have yet to master this opinion as I'm currently on my 13123782th attempt to learn to play the guitar). Malcolm Gladwell suggests that it takes 10,000 hours of deliberate practice to be virtuoso at anything. I would add that to have an open mind and to not be easily intimidated goes a long way also. I can probably compromise on the 10,000 hours though because for most my purposes, I do not need to be virtuoso at coding.
+
+Outside of this kind of talk, I think I want to write about other things that interest me like:
+
+* How **music and poetry (and musical poetry)** add beauty to the banalities of life. Bon Iver's [Holocene](https://www.youtube.com/watch?v=TWcyIpul8OE&feature=youtu.be) is my most used example about this. Try listening to that song with a clear head as you take a walk, or ride a bike, or driver a car, or you could even watch the video with(out) audio too; it will change your life. 
+{% highlight R %}
+"and at once I knew, I was not magnificent"
+# Is that beautiful or what??   
+{% endhighlight %}
+<br>  
+
+* **Choices. Choices. Choices.**  I hate making choices but I'm increasingly making more of these as the years go by. I've learned a few lessons along the way like I always have the option to say "no" (though this superpower should not be used except for the purposes of good). I find some content in my, abusive, extrapolation from the idea of a [multiverse](http://www.ted.com/talks/brian_greene_why_is_our_universe_fine_tuned_for_life?language=en#t-11527); in a different universe, there is a different me that is making choices that I do/did not make. 
+
+* **Science and curiosity.**  I am a plant scientist by training and I study genetics and breeding. Recently, I've been fascinated with all things [Brian Cox](http://www.apolloschildren.com/) and [Information Theory](https://www.youtube.com/watch?v=p0ASFxKS9sg) and how it applies to biology. Although not part of what I regularly, or at all, do, I like to think about how physics (I use this very loosely; I'm not a physicist) and biology might come together some day to tell a great story about everything.
+
+* **Stories/Things** that are hauntingly beautiful like the beautiful irony in Darwin's daughter's death at age 10.
+
+* **More randomness** that I can't currently think of.

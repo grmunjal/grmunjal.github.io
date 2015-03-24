@@ -1,0 +1,14 @@
+<header>
+<h1><a href="/">Gitanshu Munjal</a></h1>
+<br>
+<p class="view"><a href="/books/">Books I like</a><small><smaller class="hvr-pulse-grow"> reading & read</smaller></small></p>
+<br>
+<p class="view"><a href="https://grmunjal.exposure.co" class="hvr-pulse-grow">Pictures<small> snapshots from the daily</a></small></p>
+<br>
+<p class="view"><a href="/sounds/" class="hvr-pulse-grow">Sounds<small> what I'm listening to</a></small></p>
+<br>
+<p class="view"><a href="/cv/Munjal-CV.pdf" class="hvr-pulse-grow">CV<small> I Do</a></small></p>
+<br> 
+<p class="view"><a href="/posts/" class="hvr-pulse-grow">Blog<small> hello world</a></small></p>
+<br />
+</header>
