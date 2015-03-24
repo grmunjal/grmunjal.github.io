@@ -14,17 +14,3 @@
 <small></small>
 <br><br><br><br><br><br><br><br>
 </div>
-
-<div id="rightquote">
-<h2><a href="http://books.google.com/books?id=Qyofbe8JTbYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false">The Big Red Book</a></h2>
-<br>
-<div id="aboutbook">
-"<em>The Big Red Book </em>is a poetic masterpiece from Jalaluddin Rumi, the medieval Sufi mystic whom <em>Time </em>magazine calls "the most 
-popular poet in America." Readers continue to be awed and inspired by Rumi's masterfully lyrical, deeply expressive poems, collected in volumes 
-such as <em>The Illustrated Rumi</em>, <em>The Soul of Rumi</em>, and the bestselling <em>The Essential Rumi</em>. With <em>The Big Red Book</em>, acclaimed poet and Rumi interpreter Coleman Barks offers a never-before-published translation of a crucial anthology of poems widely considered to be one of Persian literature's greatest treasures." <br>
-~<a href="http://www.harpercollins.com/9780061905827/rumi-the-big-red-book">(http://tinyurl.com/rumired)</a>
-</div>
-<br><br>
-<small>I haven't yet read through the entirety of this book but I read through a few random pages (and they are usually beautiful) whenever I get time</small>
-<br><br><br><br><br><br><br><br>
-</div>
