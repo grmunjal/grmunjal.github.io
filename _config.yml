@@ -11,3 +11,4 @@ github_username:  grmunjal
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
