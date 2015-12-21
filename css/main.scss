@@ -47,8 +47,33 @@ footer p{margin-bottom:0px;}
 @content;
 }
 }
+// myp
+@media only screen and (min-width: 1400px) {
+
+
+	footer{position:fixed;bottom:1%;}
+	#mick{position-left:115%;}
+	#homeim{width:50%;padding-right: 5%;}
+	.wrapper{width: 60%;}
+
+}
+
 
 // ipad portrait
+@media only screen and (max-width: 1024px) {
+
+	header {width: 5%;}
+	footer{position:fixed;bottom:1%;}
+	#mick{display:none;}
+	#homeim{margin-left:35%;margin-top: 10%;}
+	#vid {width: 392px; height:220px;}
+	#sound {padding-left:20%;}
+	#rightquote{font-size:80%;width:100%;left:15%;}
+	.wrapper{max-width: 70%;left:5%;}
+}
+
+
+
 @media only screen and (max-width: 780px) {
 
 	header {width: 5%;}
