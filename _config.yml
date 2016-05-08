@@ -1,14 +1,27 @@
 # Site settings
-title: Gitanshu Munjal
-email: grmunjal@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Delhi, Davis, DIY
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://grmunjal.github.io" # the base hostname & protocol for your site
+title: <i>Gitanshu Munjal</i>
+description: |
+  <i>my life in a quote (...well 3 actually)</i>
+  
+          Mickey: Your nose is broke
 
-twitter_username: grmunjal
-github_username:  grmunjal
+                            Rocky: How does it look?
+  
+          Mickey: It's an improvement...
+owner: Gitanshu Munjal
+first_published: 2016 
+email: grmunjal@gmail.com
+baseurl: "" 
+url: "grmunjal.github.io" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/grmunjal
+  github: https://github.com/grmunjal
+  linkedin-square: http://www.linkedin.com/pub/gitanshu-munjal/41/65/533
+  email: "mailto:grmunjal@gmail.com"
+
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+
+#sass:
+#  style: compressed

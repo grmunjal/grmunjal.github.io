@@ -1,0 +1,26 @@
+---
+layout: post
+title: <i>Blog</i><hr>
+---
+				<div class="table-wrapper">				
+					<table>
+						<thead>
+							<tr>
+								<th><h2><i>Que</i></h2></th>
+								<th><h2><i>Quand</i></h2></th>
+							</tr>
+						</thead>
+						<tbody>
+						    {% for post in site.posts %}
+							<tr>
+								<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</td>
+								<td>{{ post.date | date: "%b %-d, %Y" }}</td>
+							</tr>
+							{% endfor %}
+						</tbody>
+					</table>
+				</div>
+
+    
+
+

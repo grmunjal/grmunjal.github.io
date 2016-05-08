@@ -1,9 +1,27 @@
-<footer class="site-footer" style="color:#494949;">
-<p>grmunjal@gmail.com</p>
-<div id="icons">
-<a href="/"><img src="/images/home.png" width="20" height="20" style="vertical-align:middle;" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://github.com/grmunjal"><img src="/images/gitit.png" width="20" height="20" style="vertical-align:middle;" border="0"></a>
-<a href="https://twitter.com/grmunjal"><img src="/images/tweet.png" width="20" height="20" style="vertical-align:middle;" border="0"></a>
-<a href="http://www.linkedin.com/pub/gitanshu-munjal/41/65/533" style="text-decoration:none;"><img src="/images/linkedin.png" width="20" height="20" style="vertical-align:middle;" border="0"></a>
-</div>
+<!-- Footer -->
+<footer id="footer">
+  <ul class="icons">
+    {% for socloc in site.social %}
+    {% if socloc[1] %}
+    {% if socloc[0] == 'email' %}
+    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
+           ><span class="label">E-mail</span></a></li>
+    {% else %}
+    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
+           ><span class="label">{{ socloc[0] }}</span></a></li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </ul>
+  <ul class="copyright">
+    <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
+    {% if site.first_published %}
+      {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
+      {% if diff contains '-' %}{{ site.first_published }},{% endif %}
+    {% endif %}
+    {{ thisyear }}
+    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
+    <li>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></li>
+    <li>Modified from the design by <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>    
+  </ul>
 </footer>
