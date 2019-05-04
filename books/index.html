@@ -1,66 +1,15 @@
 ---
 layout: post
-title: <i>Books I like</i><hr>
+title: Books I like
 ---
 
-<div id="rightquote">
-<h2><a href="https://www.amazon.com/J-B-S-life-Haldane-Bloomsbury-Reader-ebook/dp/B005O7VKOO?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect">J.B.S: The life and Work of J.B.S Haldane by Ronald Clark</a></h2>
-reading...
-<br><br><br><br>
-</div>
 
-<div id="rightquote">
-<h2><a href="http://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/thinking-about-evolution-historical-philosophical-and-political-perspectives">Thinking About Evolution</a></h2>
-The chapter containing Lewontin's version of the history of the field is very satisfying to read
-<br><br><br><br>
-</div>
+	<div class="table-wrapper">
+		{% for book in site.categories.books %}
+			<div id="rightquote">
+				<h2><a href="{{ book.link }}">{{ book.title }}</a></h2>{{ book.small }}<br>
+				<br><br><br>				
+			</div>
+		{% endfor %}
+	</div>
 
-<div id="rightquote">
-<h2><a href="http://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524">Infinite Jest by David Foster Wallace</a></h2>
-read over 30+ hours of travel from home (Delhi) to home (Davis); this VERY dense book convinced me to let go off all my click-bait-ish online behavior and more. 
-<br><br><br><br>
-</div>
-
-
-<div id="rightquote">
-<h2><a href="http://www.genetics.org/content/167/4/1529.full">Introduction to Quantitative Genetics by Falconer and Mackay</a></h2>
-<small>(reading for the nth time)</small>
-<br><br><br><br>
-</div>
-
-<div id="rightquote">
-<h2><a href="http://books.google.com/books/about/What_We_Talk_about_when_We_Talk_about_Lo.html?id=rymEu6EJUykC">What We Talk About When We Talk 
-About Love: Stories by Raymond Carver</a></h2>
-"In his second collection of stories, as in his first, Carver's characters are peripheral people-people without education, insight or prospects, people too unimaginative to even give up. Carver celebrates these men and women." ~ <a href="http://www.amazon.com/What-Talk-About-When-Love/dp/0679723056">(Amazon)</a>
-<br><br>
-<small>His writing style took some time (the first few stories) for me to get used to. I found myself going "what?!" at the end of almost every 
-single story but the abrupt endings and the banality of the settings are some things I came to like and appreciate a lot. My favorite story in here is called "So Much Water So Close to Home." <a href="https://beta.prx.org/stories/42401">Here's</a> him reading the title story.</small>
-<br><br><br><br>
-</div>
-
-<div id="rightquote">
-<h2><a href="http://books.google.com/books?id=H76XlWv_FqQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false">You Are Not a
-Gadget by Jaron Lanier</a></h2>
-<br><br><br><br>
-</div>
-
-
-<div id="rightquote">
-<h2><a href="https://books.google.com/books?id=oZhagX6UWOMC&lpg=PP1&dq=isbn%3A055389692X&pg=PP1#v=onepage&q&f=false">A Brief History of Time by Stephen Hawking</a></h2>
-"This book marries a child's wonder to a genius's intellect. We journey into Hawking's universe while marvelling at his mind." ~The Sunday Times (London)
-<br><br>
-"Lively and provocative...Mr. Hawking clearly possesses a natural teacher's gifts-easy, good-natured humor and an ability to illustrate highly complex propositions with analogies plucked from daily life." ~The New York Times
-<br><br>
-<small>I recently re-read my crummy copy right before watching "Interstellar" and "The Theory of Everything", I highly recommend doing the same for all cosmology fans</small>
-<br><br><br><br>
-</div>
-
-
-<div id="rightquote">
-<h2><a href="http://books.google.com/books?id=dGSj-CFxk-QC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false">Hybrid by Noel Kingsbury</a></h2>
-"In plant breeding, just as in evolution, genetic variety is the raw material of success. Hybrid is the story of how the genes that make a fat corn cob, a luscious apple, a brilliantly orange carrot or a high yielding strain of rice have traveled by serpentine paths to reach the genomes of the crops that we so depend on and yet so take for granted. In Hybrid we learn that there was a green revolution in eleventh-century China when a visionary emperor imported new strains of rice from Indochina; how working men in nineteenth-century Britain made a sport of competitive gooseberry breeding, and how a German doctor discovered hybrid vigor in plants. Hybrid the book displays, like hybrids themselves, all the marvelous fruit of miscellany."
-<br><br>
-~Jonathan Silvertown, author of An Orchard Invisible: A Natural History of Seeds<br>
-<a href ="http://tinyurl.com/kingsburyhybrid">(http://tinyurl.com/kingsburyhybrid)</a>
-<br><br><br><br>
-</div>
