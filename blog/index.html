@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Blog</i><hr>
+title: Blog
 ---
 				<div class="table-wrapper">				
 					<table>
@@ -11,10 +11,10 @@ title: <i>Blog</i><hr>
 							</tr>
 						</thead>
 						<tbody>
-						    {% for post in site.posts %}
+							{% for bpost in site.categories.blog %}
 							<tr>
-								<td><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</td>
-								<td>{{ post.date | date: "%b %-d, %Y" }}</td>
+								<td><a class="post-link" href="{{ bpost.url | prepend: site.baseurl }}">{{ bpost.title }}</td>
+								<td>{{ bpost.date | date: "%b %-d, %Y" }}</td>
 							</tr>
 							{% endfor %}
 						</tbody>
