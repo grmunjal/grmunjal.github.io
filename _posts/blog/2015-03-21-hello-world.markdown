@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2015-03-21 11:10:02
-categories: hello world
+categories: blog
 permalink: /posts/helloworld/
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Bl(ah)g"
 date:   2015-03-23 19:04:02
-categories: whatis
+categories: blog
 permalink: /posts/whatis/
 ---
 

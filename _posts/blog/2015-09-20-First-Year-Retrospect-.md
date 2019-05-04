@@ -2,7 +2,7 @@
 layout: post
 title:  "First Year Retrospect"
 date:   2015-09-20 11:41:02
-categories: retrospect
+categories: blog
 permalink: /posts/retrospect/
 ---
 

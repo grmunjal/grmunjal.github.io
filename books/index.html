@@ -7,7 +7,7 @@ title: Books I like
 	<div class="table-wrapper">
 		{% for book in site.categories.books %}
 			<div id="rightquote">
-				<h2><a href="{{ book.link }}">{{ book.title }}</a></h2>{{ book.small }}<br>
+				<h2><a href="{{ book.link }}">{{ book.title }}</a></h2><i>{{ book.small }}</i><br>
 				<br><br><br>				
 			</div>
 		{% endfor %}
